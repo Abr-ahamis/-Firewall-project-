@@ -246,7 +246,7 @@ To make rules persistent across reboots:
 
 Here’s a sample `README.md` for your GitHub repository:
 
-```markdown
+markdown
 # Firewall Project
 
 A simple firewall implementation using Python and `iptables` for educational purposes. This project demonstrates how to block or allow network traffic based on predefined rules.
@@ -263,7 +263,7 @@ A simple firewall implementation using Python and `iptables` for educational pur
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/firewall-project.git
+   git clone https://github.com/Firewall-project/firewall-project.git
    cd firewall-project
    ```
 2. Install dependencies:
@@ -384,15 +384,15 @@ tk.Label(root, text="Here’s the complete **Firewall Project** for your GitHub 
 - Runs on Linux systems using `iptables` (requires root privileges).
 
 ---
-
+```
 ### **How to Set Up and Use**
 
 #### **1. Clone the Repository**
 
-```bash
+bash
 git clone https://github.com/your-username/firewall-project.git
 cd firewall-project
-```
+
 
 #### **2. Install Requirements**
 
