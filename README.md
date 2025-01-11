@@ -25,7 +25,7 @@ This project is intended **only for educational purposes**. Unauthorized use of 
 #### **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/firewall-project.git
+git clone https://github.com/Firewall-project/firewall-project.git
 cd firewall-project
 ```
 
